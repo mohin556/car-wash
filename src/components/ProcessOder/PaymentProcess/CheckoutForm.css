@@ -1,0 +1,23 @@
+.CheckoutForm{
+    border: 1px solid black;
+    height: 150px;
+    width: 400px;
+    padding: 5px;
+    justify-content: center;
+    margin-left: 220px;
+    box-shadow: 2px 2px 2px 2px ghostwhite;
+  
+}
+.payCard{
+    color:black;
+    float: left;
+    padding: 5px;
+}
+.payButton{
+    color: white;
+    background-color: skyblue;
+    font-weight: bold;
+    width: 80px;
+  
+
+}

@@ -1,0 +1,70 @@
+.serviceImage{
+    height: 190px;
+    width: 220px;
+    margin-bottom: 3px;
+   
+}
+.serviceImage:hover{
+    border: 2px solid lightgrey;
+    border-radius: 10px;
+    /* height: 195px;
+    width: 250px; */
+    transform: scale(1.1);
+}
+.picture{
+    height:90px;
+    width: 150px;
+}
+
+h4{
+    color:gray;
+}
+.servicePrice{
+    text-align: center;
+    margin-left: 5px;
+   
+    padding: 15px;
+    
+    width: 330px;
+    height: 440px;
+    box-shadow: 8px 8px 8px 8px gray;
+    border-radius: 8px;
+}
+.servicePrice:hover{
+ transform: scale(1.1);
+ z-index: 2;
+}
+.commonService{
+    color: grey;
+    text-align: left;
+    margin-left: 20px;
+
+}
+.OkIcon{
+    color: #39B972;
+}
+.WatchIcon{
+    color: red;
+}
+.rightIcon{
+    color: white;
+}
+.timeDiv{
+    margin-top: 10px;
+}
+.cardHeading{
+    margin-top: 3px;
+    color: red;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+.OderBtn{
+    margin-top: 5px;
+    background-color: hotpink;
+    border-radius: 22px;
+    height: 50px;
+    width: 160px;
+    color: ivory;
+    font-size: 18px;
+    font-weight: bold;
+}

@@ -1,0 +1,26 @@
+.footer{
+    background-color: rgb(82, 59, 59);
+    height: 100vh;
+    border: 3px solid red;
+    padding: 15px;
+}
+.Carr{
+    height: 150px;
+}
+.iconOnly{
+    color: tomato;
+     position: absolute;
+     margin-right: 18px;
+    background-color: violet;
+
+}
+.iconSet{
+  float: left;
+  font-size: 32px;
+  position: relative;
+  margin-right: 80px;
+  padding: 5px;
+  
+ 
+ 
+}

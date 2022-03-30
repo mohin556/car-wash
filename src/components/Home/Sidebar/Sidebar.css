@@ -1,0 +1,49 @@
+.sidebarMain{
+  margin-top: 30px;
+}
+.sidebar{
+    color: black;
+  height: 100%vh;
+  padding: 18px;
+  text-align: center;
+
+
+}
+.linkItem{
+  color: black;
+  text-decoration: none;
+}
+/* .fontIcon{
+  
+  margin-top:0px;
+  position: fixed;
+  font-size: 22px;
+  
+ margin-top: 5px;
+ 
+  position: absolute;
+  color: black;
+  border: 1px solid blue;
+
+} */
+/* .iconSet{
+ padding: 5px;
+ border: 1px solid red;
+ float: right;
+
+ margin-top: 0px;
+ margin-right: 65px;
+
+
+ position: relative;
+ 
+} */
+.fontIcon{
+ margin-right: 12px;
+ font-size: 28px;
+}
+.iconSet{
+  display: flex;
+  padding-left: 18px;
+  font-size: 32px;
+}

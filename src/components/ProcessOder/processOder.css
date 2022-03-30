@@ -1,0 +1,17 @@
+.procesCard{
+    background-color: whitesmoke;
+   
+    height: 88vh;
+}
+.oderCadr{
+    color: black;
+   
+    padding: 50px 8px;
+    height: 500px;
+    border-radius: 8px;
+   
+}
+.creditCard{
+    padding: 50px 8px;
+    height: 500px;
+}

@@ -1,0 +1,31 @@
+.adminForm{
+    background-color: lightgrey;
+    height: 100vh;
+    padding: 50px;
+    float: left;
+    display: grid;
+    border: 2px solid black;
+
+  
+}
+/* .nameInput{
+    float: left;
+   
+
+} */
+.adminInput{
+    width: 450px;
+    line-height: 24px;
+}
+.adminPanel{
+ background-color: lightslategrey;
+ cursor: pointer;
+}
+.addminSubmit{
+    background-color: magenta;
+    width: 125px;
+    height: 40px;
+    padding: 5px;
+    border-radius: 8px;
+    
+}

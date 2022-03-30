@@ -1,0 +1,21 @@
+.table{
+    
+    padding: 10px;
+   margin-right: 55px;
+   background-color: lightgray;
+   border-radius: 12px;
+  border: 0px 0px 0px;
+   margin-top: 55px;
+   font-size: 18px;
+}
+.totalLeft{
+    background-color: lightsteelblue;
+    height: 100vh;
+}
+.tableHeading{
+    background-color: blueviolet;
+    color: wheat;
+}
+.tableInput{
+    width: 70px;
+}

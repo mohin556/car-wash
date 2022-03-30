@@ -1,0 +1,37 @@
+.review1{
+    background-color: lightsteelblue;
+    width: 85%;
+    border: 1px solid black;
+    outline: none;
+    box-shadow: 5px 5px 5px 5px darkgrey;
+    margin-bottom: 18px;
+    padding: 5px;
+    border-radius: 8px;
+    
+}
+.reviewStart{
+    color: #FFAC0C;
+    margin-left: 2px;
+    background-color: rgb(35, 39, 49);
+   border-radius: 5px;
+   margin-top: 5px;
+   height: 36px;
+   padding: 5px;
+   
+}
+.clientImage{
+    
+    height: 150px;
+   clip-path: circle();
+   transform: translateY(-80px);
+   
+}
+.description{
+    margin:  0px;
+    color: black;
+   
+}
+.clientName{
+text-align: left;
+color:black;
+}

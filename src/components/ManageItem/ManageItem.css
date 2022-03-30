@@ -1,0 +1,30 @@
+.manageLeft{
+    background-color: burlywood;
+    height: 100vh;
+}
+.manageRight{
+    background-color: cadetblue;
+   
+   
+}
+.itemList{
+   
+    width: 40%;
+    text-align: left;
+    padding: 10px;
+}
+.itemName{
+    font-weight: bold;
+    font-size: 20px;
+   
+}
+.deletBtn{
+    width: 85px;
+   
+    height: 33px;
+    background-color: lightskyblue;
+    color: black;
+    border: 1px solid wheat;
+    border-radius: 6px;
+    margin-left: 3px;
+}

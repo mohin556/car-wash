@@ -1,0 +1,26 @@
+.male{
+    height: 520px;
+    width: 560px;
+   
+}
+.ParaFeature{
+    text-align: left;
+    color: red;
+}
+.button1{
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    margin: 20px;
+    padding: 25px;
+    border-radius: 35px;
+    width: 200px;
+
+}
+.abotFeature{
+    padding: 5px;
+   border-top: 3px solid black;
+}
+.fetures-container{
+    padding: 5px;
+}

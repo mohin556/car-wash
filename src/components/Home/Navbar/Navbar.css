@@ -1,0 +1,21 @@
+.nav1{
+    background-color:rgb(107, 152, 170);
+   
+}
+.nav-link{
+    
+    font-size: 20px;
+    font-weight: bold;
+  
+   
+}
+
+.nav-link:hover{
+ background-color: #DEE1E6;  
+ border: 2px gainsboro; 
+ color: red;
+ font-size: 18px;
+ font-weight: bold;
+ 
+ 
+}

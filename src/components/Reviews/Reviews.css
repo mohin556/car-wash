@@ -1,0 +1,77 @@
+.reviewSide{
+    background-color: darkslategray;
+    height: 100vh;
+    color: violet;
+    
+}
+.homePage{
+    color: violet;
+    padding: 3px;
+    
+   margin-right: 15px;
+   
+
+}
+.homeIcon{
+    font-size: 29px;
+    color: white;
+    padding: 3px;
+    
+  
+}
+.reviews{
+    background-color: #3FE2F5;
+    padding: 18px;
+}
+.textt{
+    color: black;
+   text-align: start;
+}
+.reviewDiv{
+    
+    
+    display: grid;
+}
+.reviewDescription{
+    height: 150px;
+    width: 70%;
+    border-radius: 8px;
+    text-align: start;
+    background-color:lightgrey;
+    color: white;
+    border:0px;
+    outline: 0px;
+    
+   
+}
+.reviewName{
+    border:0px;
+    outline: 0px;
+    height: 40px;
+    width: 70%;
+    background-color:lightgrey;
+    border-radius: 8px;
+}
+.reviewPhoto{
+    padding: 8px;
+    border:0px;
+    outline: 0px;
+    height: 50px;
+    width: 70%;
+    background-color:lightgrey;
+    border-radius: 8px;
+}
+.reviewSubmit{
+    display: grid;
+    width: 18%;
+    border: 1px solid black;
+    border-radius: 6px;
+  
+}
+.reviewSub{
+    background-color:blueviolet;
+    height: 36px;
+    border-radius: 6px;
+    color: cornsilk;
+    font-weight: bold;
+}

@@ -1,0 +1,50 @@
+.login{
+    background-color: whitesmoke;
+    border: 1px solid lightgrey;
+    height: 500px;
+    width: 500px;
+    text-align: center;
+    border-radius: 5px;
+    margin-left: 450px;
+    margin-top: 70px;
+    box-shadow: 10px 10px 10px 10px lightgrey;
+    color:lightseagreen;
+    
+    
+    
+}
+.GoogleIcon{
+    height: 55px;
+    margin-top: 45px;
+    
+    border-radius: 20px;
+  
+}
+.loginInput{
+    font-weight: bold;
+    margin-top: 20px;
+    border: 1px solid gray;
+    border-radius: 20px;
+    padding: 8px;
+}
+.signInBtn{
+    margin-top: 45px;
+    background-color: lightseagreen;
+    color: white;
+    font-weight: bold;
+    border: 1px solid gray;
+    width: 280px;
+    border-radius: 18px;
+    padding: 10px;
+}
+.paragraph{
+    color: lightseagreen;
+    font-size: 25px;
+    margin-top: 20px;
+    
+}
+.carIcon{
+     
+    font-size: 48px;
+  
+}

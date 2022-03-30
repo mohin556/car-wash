@@ -1,0 +1,12 @@
+.extraImage{
+    height: 150px;
+    width: 220px;
+    margin-bottom: 3px;
+}
+.extraImage:hover{
+    border: 2px solid lightgrey;
+    border-radius: 10px;
+    /* height: 195px;
+    width: 250px; */
+    transform: scale(1.1);
+}
